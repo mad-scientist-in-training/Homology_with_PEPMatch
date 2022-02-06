@@ -1,4 +1,4 @@
-# PEPMatch - MS antigens v EBV, CMV
+# Homology_with_PEPMatch - MS antigens v EBV, CMV
 
 This reposity contains a notebook which document the code used in the project entitled: "Molecular mimicry of Epstein-Barr virus proteins in multiple sclerosis pathogenesis."
 
